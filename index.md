@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
+# 白茹青
 
-You can use the [editor on GitHub](https://github.com/BossZihang/bosszhipin_second.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+性别：女
+学历：在读博士（国内硕士）
+专业：材料学
+留学国家：法国
+联系方式：微信
+求职意向：全栈工程师
+在读学校：上法兰西理工
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 请问你已经就业了嘛？
+还没有
 
-### Markdown
+### 请问你什么专业呢？
+我专业是材料学啊，但是转行计算机了
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 为什么要转行呢，因为计算机攒的钱多？
+主要是做材料的在中国太惨了，趁着年轻赶紧学计算机吧
 
-```markdown
-Syntax highlighted code block
+### 法国的材料学就业情况可能好一点不是吗？
+本来就没有打算在法国呆下去，来到这里博士也有两千多欧的收入，现苟延残喘着转计算机，以后还是规划回国的，老婆还在国内。
 
-# Header 1
-## Header 2
-### Header 3
+### 生活不易啊。。。您觉得留学生在中国就业难吗？
+如果是材料学专业的相关就业，惨不忍睹，是不是留学生都一样。留学生如果在这边工作两年回去说不定好一些
 
-- Bulleted
-- List
+### 你觉得国内就业和国外就业各有什么好处和坏处呢
+不大清楚，没有了解过很多。
 
-1. Numbered
-2. List
+### 那你觉得留学生在回国就业有什么优势和劣势？
+想我刚才说的，像我这个专业的留学生如果在这儿工作两年，回去应该更好就业。其他专业应该也是这样的。
 
-**Bold** and _Italic_ and `Code` text
+### 你觉得留学生和国内学生，在相同能力的条件下，哪一种学生更受企业青睐？
+留学生
 
-[Link](url) and ![Image](src)
-```
+### 您对回国创业怎么看？
+我现在实际上有一个创业idea，是做孕妇的调理食品的，已经为一项牛奶类产品在法国申请了专利了，但是怎么说我的这个产品容易被其他厂家复制，于是最终放弃这个念头，中国应该加强专利的保护，否则很难创业。
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BossZihang/bosszhipin_second.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### 您觉得有必要为留学生开辟一条渠道来帮助他们就业吗？如果需要，关键点在哪里？
+我肯定赞同啊，如果能多一天渠道当然好呀。大家都乐意，是吧？
 
-### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
